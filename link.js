@@ -1,0 +1,1 @@
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbnJ0RzQ5NF96b05jSXBkblBVSnQ1MFAwQkRTUXxBQ3Jtc0trSjJ2Sll1YU5MLXduSnVVNXFMT1pEemRSTjh5eWlVYm80SU11WTVua213RVVhRTA0bWQ4WEJQRDNQbDRtbFdxWWJ5NU50cWZPbXhuV0szVDd5Vlk2Qk5xNFBqazktWjZKYXE5bkltdzNVTTY2bnFRWQ&q=https://facebook.lcom&html_redirect=1";
